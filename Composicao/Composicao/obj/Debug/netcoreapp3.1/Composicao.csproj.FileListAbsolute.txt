@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.exe
+C:\Users\carlo\source\repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.deps.json
+C:\Users\carlo\source\repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.runtimeconfig.json
+C:\Users\carlo\source\repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.dll
+C:\Users\carlo\source\repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.pdb
+C:\Users\carlo\source\repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.dll
+C:\Users\carlo\source\repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.pdb
+C:\Users\carlo\source\repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.genruntimeconfig.cache

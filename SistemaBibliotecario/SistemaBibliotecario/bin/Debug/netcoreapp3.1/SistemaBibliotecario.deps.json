@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SistemaBibliotecario/1.0.0": {
+        "runtime": {
+          "SistemaBibliotecario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaBibliotecario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

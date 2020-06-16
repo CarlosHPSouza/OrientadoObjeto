@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.exe
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.deps.json
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.runtimeconfig.json
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.dll
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.pdb
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.dll
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.pdb
+C:\Users\carlo\source\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.genruntimeconfig.cache

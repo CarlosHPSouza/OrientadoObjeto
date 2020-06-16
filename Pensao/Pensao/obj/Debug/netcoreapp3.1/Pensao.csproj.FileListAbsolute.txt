@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\Pensao\Pensao\bin\Debug\netcoreapp3.1\Pensao.exe
+C:\Users\carlo\source\repos\Pensao\Pensao\bin\Debug\netcoreapp3.1\Pensao.deps.json
+C:\Users\carlo\source\repos\Pensao\Pensao\bin\Debug\netcoreapp3.1\Pensao.runtimeconfig.json
+C:\Users\carlo\source\repos\Pensao\Pensao\bin\Debug\netcoreapp3.1\Pensao.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\Pensao\Pensao\bin\Debug\netcoreapp3.1\Pensao.dll
+C:\Users\carlo\source\repos\Pensao\Pensao\bin\Debug\netcoreapp3.1\Pensao.pdb
+C:\Users\carlo\source\repos\Pensao\Pensao\obj\Debug\netcoreapp3.1\Pensao.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Pensao\Pensao\obj\Debug\netcoreapp3.1\Pensao.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Pensao\Pensao\obj\Debug\netcoreapp3.1\Pensao.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Pensao\Pensao\obj\Debug\netcoreapp3.1\Pensao.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Pensao\Pensao\obj\Debug\netcoreapp3.1\Pensao.dll
+C:\Users\carlo\source\repos\Pensao\Pensao\obj\Debug\netcoreapp3.1\Pensao.pdb
+C:\Users\carlo\source\repos\Pensao\Pensao\obj\Debug\netcoreapp3.1\Pensao.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\carlo\source\repos\vetor03\vetor03\bin\Debug\netcoreapp3.1\vetor03.exe
+C:\Users\carlo\source\repos\vetor03\vetor03\bin\Debug\netcoreapp3.1\vetor03.deps.json
+C:\Users\carlo\source\repos\vetor03\vetor03\bin\Debug\netcoreapp3.1\vetor03.runtimeconfig.json
+C:\Users\carlo\source\repos\vetor03\vetor03\bin\Debug\netcoreapp3.1\vetor03.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\vetor03\vetor03\bin\Debug\netcoreapp3.1\vetor03.dll
+C:\Users\carlo\source\repos\vetor03\vetor03\bin\Debug\netcoreapp3.1\vetor03.pdb
+C:\Users\carlo\source\repos\vetor03\vetor03\obj\Debug\netcoreapp3.1\vetor03.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\vetor03\vetor03\obj\Debug\netcoreapp3.1\vetor03.AssemblyInfo.cs
+C:\Users\carlo\source\repos\vetor03\vetor03\obj\Debug\netcoreapp3.1\vetor03.dll
+C:\Users\carlo\source\repos\vetor03\vetor03\obj\Debug\netcoreapp3.1\vetor03.pdb

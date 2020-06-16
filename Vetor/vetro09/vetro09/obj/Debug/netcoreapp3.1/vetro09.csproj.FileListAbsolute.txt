@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\vetro09\vetro09\bin\Debug\netcoreapp3.1\vetro09.exe
+C:\Users\carlo\source\repos\vetro09\vetro09\bin\Debug\netcoreapp3.1\vetro09.deps.json
+C:\Users\carlo\source\repos\vetro09\vetro09\bin\Debug\netcoreapp3.1\vetro09.runtimeconfig.json
+C:\Users\carlo\source\repos\vetro09\vetro09\bin\Debug\netcoreapp3.1\vetro09.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\vetro09\vetro09\bin\Debug\netcoreapp3.1\vetro09.dll
+C:\Users\carlo\source\repos\vetro09\vetro09\bin\Debug\netcoreapp3.1\vetro09.pdb
+C:\Users\carlo\source\repos\vetro09\vetro09\obj\Debug\netcoreapp3.1\vetro09.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\vetro09\vetro09\obj\Debug\netcoreapp3.1\vetro09.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\vetro09\vetro09\obj\Debug\netcoreapp3.1\vetro09.AssemblyInfo.cs
+C:\Users\carlo\source\repos\vetro09\vetro09\obj\Debug\netcoreapp3.1\vetro09.dll
+C:\Users\carlo\source\repos\vetro09\vetro09\obj\Debug\netcoreapp3.1\vetro09.pdb

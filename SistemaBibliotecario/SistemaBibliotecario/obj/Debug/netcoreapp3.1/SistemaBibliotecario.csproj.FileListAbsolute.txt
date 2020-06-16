@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\bin\Debug\netcoreapp3.1\SistemaBibliotecario.exe
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\bin\Debug\netcoreapp3.1\SistemaBibliotecario.deps.json
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\bin\Debug\netcoreapp3.1\SistemaBibliotecario.runtimeconfig.json
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\bin\Debug\netcoreapp3.1\SistemaBibliotecario.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\bin\Debug\netcoreapp3.1\SistemaBibliotecario.dll
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\bin\Debug\netcoreapp3.1\SistemaBibliotecario.pdb
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\obj\Debug\netcoreapp3.1\SistemaBibliotecario.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\obj\Debug\netcoreapp3.1\SistemaBibliotecario.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\obj\Debug\netcoreapp3.1\SistemaBibliotecario.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\obj\Debug\netcoreapp3.1\SistemaBibliotecario.AssemblyInfo.cs
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\obj\Debug\netcoreapp3.1\SistemaBibliotecario.dll
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\obj\Debug\netcoreapp3.1\SistemaBibliotecario.pdb
+C:\Users\carlo\source\repos\SistemaBibliotecario\SistemaBibliotecario\obj\Debug\netcoreapp3.1\SistemaBibliotecario.genruntimeconfig.cache

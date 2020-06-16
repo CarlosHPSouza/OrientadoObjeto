@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\Conjunto\Conjunto\bin\Debug\netcoreapp3.1\Conjunto.exe
+C:\Users\carlo\source\repos\Conjunto\Conjunto\bin\Debug\netcoreapp3.1\Conjunto.deps.json
+C:\Users\carlo\source\repos\Conjunto\Conjunto\bin\Debug\netcoreapp3.1\Conjunto.runtimeconfig.json
+C:\Users\carlo\source\repos\Conjunto\Conjunto\bin\Debug\netcoreapp3.1\Conjunto.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\Conjunto\Conjunto\bin\Debug\netcoreapp3.1\Conjunto.dll
+C:\Users\carlo\source\repos\Conjunto\Conjunto\bin\Debug\netcoreapp3.1\Conjunto.pdb
+C:\Users\carlo\source\repos\Conjunto\Conjunto\obj\Debug\netcoreapp3.1\Conjunto.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Conjunto\Conjunto\obj\Debug\netcoreapp3.1\Conjunto.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Conjunto\Conjunto\obj\Debug\netcoreapp3.1\Conjunto.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Conjunto\Conjunto\obj\Debug\netcoreapp3.1\Conjunto.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Conjunto\Conjunto\obj\Debug\netcoreapp3.1\Conjunto.dll
+C:\Users\carlo\source\repos\Conjunto\Conjunto\obj\Debug\netcoreapp3.1\Conjunto.pdb
+C:\Users\carlo\source\repos\Conjunto\Conjunto\obj\Debug\netcoreapp3.1\Conjunto.genruntimeconfig.cache

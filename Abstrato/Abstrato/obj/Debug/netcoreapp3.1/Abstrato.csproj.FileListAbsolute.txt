@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\Abstrato\Abstrato\bin\Debug\netcoreapp3.1\Abstrato.exe
+C:\Users\carlo\source\repos\Abstrato\Abstrato\bin\Debug\netcoreapp3.1\Abstrato.deps.json
+C:\Users\carlo\source\repos\Abstrato\Abstrato\bin\Debug\netcoreapp3.1\Abstrato.runtimeconfig.json
+C:\Users\carlo\source\repos\Abstrato\Abstrato\bin\Debug\netcoreapp3.1\Abstrato.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\Abstrato\Abstrato\bin\Debug\netcoreapp3.1\Abstrato.dll
+C:\Users\carlo\source\repos\Abstrato\Abstrato\bin\Debug\netcoreapp3.1\Abstrato.pdb
+C:\Users\carlo\source\repos\Abstrato\Abstrato\obj\Debug\netcoreapp3.1\Abstrato.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Abstrato\Abstrato\obj\Debug\netcoreapp3.1\Abstrato.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Abstrato\Abstrato\obj\Debug\netcoreapp3.1\Abstrato.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Abstrato\Abstrato\obj\Debug\netcoreapp3.1\Abstrato.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Abstrato\Abstrato\obj\Debug\netcoreapp3.1\Abstrato.dll
+C:\Users\carlo\source\repos\Abstrato\Abstrato\obj\Debug\netcoreapp3.1\Abstrato.pdb
+C:\Users\carlo\source\repos\Abstrato\Abstrato\obj\Debug\netcoreapp3.1\Abstrato.genruntimeconfig.cache

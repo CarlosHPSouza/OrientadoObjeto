@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\matriz04\matriz04\bin\Debug\netcoreapp3.1\matriz04.exe
+C:\Users\carlo\source\repos\matriz04\matriz04\bin\Debug\netcoreapp3.1\matriz04.deps.json
+C:\Users\carlo\source\repos\matriz04\matriz04\bin\Debug\netcoreapp3.1\matriz04.runtimeconfig.json
+C:\Users\carlo\source\repos\matriz04\matriz04\bin\Debug\netcoreapp3.1\matriz04.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\matriz04\matriz04\bin\Debug\netcoreapp3.1\matriz04.dll
+C:\Users\carlo\source\repos\matriz04\matriz04\bin\Debug\netcoreapp3.1\matriz04.pdb
+C:\Users\carlo\source\repos\matriz04\matriz04\obj\Debug\netcoreapp3.1\matriz04.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\matriz04\matriz04\obj\Debug\netcoreapp3.1\matriz04.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\matriz04\matriz04\obj\Debug\netcoreapp3.1\matriz04.AssemblyInfo.cs
+C:\Users\carlo\source\repos\matriz04\matriz04\obj\Debug\netcoreapp3.1\matriz04.dll
+C:\Users\carlo\source\repos\matriz04\matriz04\obj\Debug\netcoreapp3.1\matriz04.pdb

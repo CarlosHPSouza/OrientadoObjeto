@@ -1,0 +1,17 @@
+C:\Users\carlo\source\repos\Contato\Contato\bin\Debug\Contato.exe.config
+C:\Users\carlo\source\repos\Contato\Contato\bin\Debug\Contato.exe
+C:\Users\carlo\source\repos\Contato\Contato\bin\Debug\Contato.pdb
+C:\Users\carlo\source\repos\Contato\Contato\obj\Debug\Contato.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Contato\Contato\obj\Debug\Contato.Form1.resources
+C:\Users\carlo\source\repos\Contato\Contato\obj\Debug\Contato.Properties.Resources.resources
+C:\Users\carlo\source\repos\Contato\Contato\obj\Debug\Contato.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\Contato\Contato\obj\Debug\Contato.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Contato\Contato\obj\Debug\Contato.exe
+C:\Users\carlo\source\repos\Contato\Contato\obj\Debug\Contato.pdb
+C:\Users\carlo\source\repos\Contato\Contato\bin\Debug\ContactDB.mdf
+C:\Users\carlo\source\repos\Contato\Contato\bin\Debug\ContactDB_log.ldf
+C:\Users\carlo\source\repos\Contato\Contato\bin\Debug\Contato.exe.manifest
+C:\Users\carlo\source\repos\Contato\Contato\bin\Debug\Contato.application
+C:\Users\carlo\source\repos\Contato\Contato\obj\Debug\Contato.TrustInfo.xml
+C:\Users\carlo\source\repos\Contato\Contato\obj\Debug\Contato.exe.manifest
+C:\Users\carlo\source\repos\Contato\Contato\obj\Debug\Contato.application

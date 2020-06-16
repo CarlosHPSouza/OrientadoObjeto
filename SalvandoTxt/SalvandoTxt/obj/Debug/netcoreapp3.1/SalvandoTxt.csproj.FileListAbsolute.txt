@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\bin\Debug\netcoreapp3.1\SalvandoTxt.exe
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\bin\Debug\netcoreapp3.1\SalvandoTxt.deps.json
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\bin\Debug\netcoreapp3.1\SalvandoTxt.runtimeconfig.json
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\bin\Debug\netcoreapp3.1\SalvandoTxt.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\bin\Debug\netcoreapp3.1\SalvandoTxt.dll
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\bin\Debug\netcoreapp3.1\SalvandoTxt.pdb
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\obj\Debug\netcoreapp3.1\SalvandoTxt.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\obj\Debug\netcoreapp3.1\SalvandoTxt.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\obj\Debug\netcoreapp3.1\SalvandoTxt.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\obj\Debug\netcoreapp3.1\SalvandoTxt.AssemblyInfo.cs
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\obj\Debug\netcoreapp3.1\SalvandoTxt.dll
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\obj\Debug\netcoreapp3.1\SalvandoTxt.pdb
+C:\Users\carlo\source\repos\SalvandoTxt\SalvandoTxt\obj\Debug\netcoreapp3.1\SalvandoTxt.genruntimeconfig.cache

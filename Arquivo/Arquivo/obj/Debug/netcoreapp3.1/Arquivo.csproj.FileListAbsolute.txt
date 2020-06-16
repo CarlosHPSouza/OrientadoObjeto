@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\Arquivo\Arquivo\bin\Debug\netcoreapp3.1\Arquivo.exe
+C:\Users\carlo\source\repos\Arquivo\Arquivo\bin\Debug\netcoreapp3.1\Arquivo.deps.json
+C:\Users\carlo\source\repos\Arquivo\Arquivo\bin\Debug\netcoreapp3.1\Arquivo.runtimeconfig.json
+C:\Users\carlo\source\repos\Arquivo\Arquivo\bin\Debug\netcoreapp3.1\Arquivo.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\Arquivo\Arquivo\bin\Debug\netcoreapp3.1\Arquivo.dll
+C:\Users\carlo\source\repos\Arquivo\Arquivo\bin\Debug\netcoreapp3.1\Arquivo.pdb
+C:\Users\carlo\source\repos\Arquivo\Arquivo\obj\Debug\netcoreapp3.1\Arquivo.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Arquivo\Arquivo\obj\Debug\netcoreapp3.1\Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Arquivo\Arquivo\obj\Debug\netcoreapp3.1\Arquivo.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Arquivo\Arquivo\obj\Debug\netcoreapp3.1\Arquivo.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Arquivo\Arquivo\obj\Debug\netcoreapp3.1\Arquivo.dll
+C:\Users\carlo\source\repos\Arquivo\Arquivo\obj\Debug\netcoreapp3.1\Arquivo.pdb
+C:\Users\carlo\source\repos\Arquivo\Arquivo\obj\Debug\netcoreapp3.1\Arquivo.genruntimeconfig.cache

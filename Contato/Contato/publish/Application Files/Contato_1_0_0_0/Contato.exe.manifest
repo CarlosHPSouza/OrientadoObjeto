@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Contato.exe" version="1.0.0.0" publicKeyToken="47f6e247c14e52bc" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Contato" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Contato.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Contato.exe" size="65512">
+      <assemblyIdentity name="Contato" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7IMrmTWUTx5UAWRy2fqcvh0GqXrw9K5GP0CjZ7WjLy4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ContactDB.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3+BK2KHpiVucXu2NxUyBKhsn3ksT5sGCspOnudZh5VU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ContactDB_log.ldf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>THzY1uJOXK6srT/U/TSKhBY9YPAwdvPBoPa6kE3PY1Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Contato.exe.config" size="552">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rwtNS+DUv+be0RVD75FNoIanVJ07IJyVHWh35TfTTgo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on
+           and is designed to work with. Uncomment the appropriate elements
+           and Windows will automatically select the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DESKTOP-MHRFVSS\carlos" issuerKeyHash="8b792e801ad881181ddab5b403b823362efc7611" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>k3DCSsgL6fS2dV2Zk7w2wJ3rkkftF9TSNjq2N2w93/I=</DigestValue></Reference></SignedInfo><SignatureValue>EYWnFlIFsBV59wlWhkQ1+Dv8Zdvh9l47xZaPVpLnpcRPJlj2QcKBm3kpqZgsRV5STLOMfr9ziPXN+H7B8k3N7q3uinmYOqYX3mCv/36dbab0pqHvsBXXBoSGskBKiAk7gDeSC0PsQHLuNxHEP2JmXxW5l1tNJey8/uedeOl/was=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>opXGkGQ/fTqa2nDoycDAAjYjbQZux2vlWsIms1QDZFpBq0y+/f1wppxSbpVpg1ySoXj1BESzTBNcIdIAM3tBN0+b/+zvTMIUGonetnV/O3sZUbXCDdyYaWw65L/d18MKvlSK/wt5loEUa8iJHG5x4jR+88jMRfFtqaekvBvSCBU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f2df3d6c37b63a36d2d417ed4792eb9dc036bc93995d75b6f4e90bc84ac27093" Description="" Url=""><as:assemblyIdentity name="Contato.exe" version="1.0.0.0" publicKeyToken="47f6e247c14e52bc" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-MHRFVSS\carlos</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>VuxS+XJqhf9rBT+n0KrNOJdV/Mm9o2iFYSLndngv9Ww=</DigestValue></Reference></SignedInfo><SignatureValue>NguiuQ1KomVD+lOE875KXDPQT9Vo9kArq1nTkuN5w7dOAkJPEfaWz/5pXO2al7hvXZoW2Mt7hUf5QGJMmZJOvZlFoScySzdK9UDJijFwmpxP9/qXvR2PW1tnSWCqzM/GQbyMTLc3cLeuyLA/5e8qpkAQEjb4GL8T2vRhXETYSnw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>opXGkGQ/fTqa2nDoycDAAjYjbQZux2vlWsIms1QDZFpBq0y+/f1wppxSbpVpg1ySoXj1BESzTBNcIdIAM3tBN0+b/+zvTMIUGonetnV/O3sZUbXCDdyYaWw65L/d18MKvlSK/wt5loEUa8iJHG5x4jR+88jMRfFtqaekvBvSCBU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQQRGHX+wkhJxCgz1f2+1SIjANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtAE0ASABSAEYAVgBTAFMAXABjAGEAcgBsAG8AczAeFw0yMDA0MjkyMDI3NTNaFw0yMTA0MzAwMjI3NTNaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0ATQBIAFIARgBWAFMAUwBcAGMAYQByAGwAbwBzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCilcaQZD99OpracOjJwMACNiNtBm7Ha+VawiazVANkWkGrTL79/XCmnFJulWmDXJKhePUERLNME1wh0gAze0E3T5v/7O9MwhQaid62dX87exlRtcIN3JhpbDrkv93Xwwq+VIr/C3mWgRRryIkcbnHiNH7zyMxF8W2pp6S8G9IIFQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAFqPzXgATO7TImzdF9p8+JLRzRjDM6mxBmdhsC+UHnZ0gqxeByYx2RKuUkm6XbuZBUx2cFNb0L8XDnRg+1Ge1sBCV3T+CsgWoVQzaqVqmCblE00dCp1C9l+kRTb0dZx+O4XyMmvJjXusKcYx9wr71ti91gl73juLmiVPDiFSXe9a</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

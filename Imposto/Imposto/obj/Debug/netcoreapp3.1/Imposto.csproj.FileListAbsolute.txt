@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.exe
+C:\Users\carlo\source\repos\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.deps.json
+C:\Users\carlo\source\repos\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.runtimeconfig.json
+C:\Users\carlo\source\repos\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.dll
+C:\Users\carlo\source\repos\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.pdb
+C:\Users\carlo\source\repos\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.dll
+C:\Users\carlo\source\repos\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.pdb
+C:\Users\carlo\source\repos\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.genruntimeconfig.cache

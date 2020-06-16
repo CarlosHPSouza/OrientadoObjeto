@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\vetor07\vetor07\bin\Debug\netcoreapp3.1\vetor07.exe
+C:\Users\carlo\source\repos\vetor07\vetor07\bin\Debug\netcoreapp3.1\vetor07.deps.json
+C:\Users\carlo\source\repos\vetor07\vetor07\bin\Debug\netcoreapp3.1\vetor07.runtimeconfig.json
+C:\Users\carlo\source\repos\vetor07\vetor07\bin\Debug\netcoreapp3.1\vetor07.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\vetor07\vetor07\bin\Debug\netcoreapp3.1\vetor07.dll
+C:\Users\carlo\source\repos\vetor07\vetor07\bin\Debug\netcoreapp3.1\vetor07.pdb
+C:\Users\carlo\source\repos\vetor07\vetor07\obj\Debug\netcoreapp3.1\vetor07.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\vetor07\vetor07\obj\Debug\netcoreapp3.1\vetor07.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\vetor07\vetor07\obj\Debug\netcoreapp3.1\vetor07.AssemblyInfo.cs
+C:\Users\carlo\source\repos\vetor07\vetor07\obj\Debug\netcoreapp3.1\vetor07.dll
+C:\Users\carlo\source\repos\vetor07\vetor07\obj\Debug\netcoreapp3.1\vetor07.pdb
